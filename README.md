@@ -5,11 +5,12 @@
     <img src="https://komarev.com/ghpvc/?username=souhailfl&label=Profile%20views&color=0e75b6&style=flat" alt="souhailfl" />
 </p>
 <p align="center">
-    <img src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" />
+    <img src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" width="400"/>
 </p>
 <p align="center">
-    <img src="https://rare-gallery.com/thumbs/536273-Guy-Anime-Computer.jpg"/>
+    <img src="https://rare-gallery.com/thumbs/536273-Guy-Anime-Computer.jpg" width="400"/>
 </p>
+
 
 - 📫 How to reach me **souhailfellaki@gmail.com**
 

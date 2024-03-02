@@ -10,7 +10,7 @@
     </div>  
     <h2 align="center">Languages and Tools Proficiency:</h2>
     <div align="center">
-        <img src="https://i.ibb.co/TDQzC3r/Minimalist-Black-and-White-Blank-Paper-Document-3.png" alt="Minimalist Black and White Blank Paper Document">
+        <img src="https://i.ibb.co/0fHkfzZ/Minimalist-Black-and-White-Blank-Paper-Document-4.png" alt="Minimalist-Black-and-White-Blank-Paper-Document-4" border="0" />
     </div>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=SouhailFl&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly" />

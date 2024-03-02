@@ -27,16 +27,16 @@
     <hr>
     <h3 align="center">Connect with me:</h3>
     <div align="center">
-        <a href="https://www.linkedin.com/in/souhail-fellaki-1b1759262/" target="_parent">
+        <a href="https://www.linkedin.com/in/souhail-fellaki-1b1759262/">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
         </a>
-        <a href="https://facebook.com/souhailfellaki" target="_blank">
+        <a href="https://facebook.com/souhailfellaki">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
         </a>
-        <a href="https://instagram.com/souhail_fl" target="_blank">
+        <a href="https://instagram.com/souhail_fl">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
         </a>
-        <a href="https://discord.gg/souhail_fl#8484" target="_blank">
+        <a href="https://discord.gg/souhail_fl#8484">
             <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
         </a>
     </div>

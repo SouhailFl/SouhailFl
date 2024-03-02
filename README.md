@@ -1,5 +1,6 @@
 <body>
     <h1 align="center"><strong>Hey 👋, I'm Souhail Fellaki</strong></h1>
+    <p align="left"> <img src="https://komarev.com/ghpvc/?username=souhailfl&label=Profile%20views&color=0e75b6&style=flat" alt="souhailfl" /> </p>
     <div align="center" >
         <img src="https://i.ibb.co/5rXx2RH/329566101-727748832355184-5866501581331802860-n.jpg" />
     </div>
@@ -20,7 +21,7 @@
         </a>
     </div>
     <div align="center">
-        <img src="https://animesher.com/orig/0/19/197/1978/animesher.com_code-computer-html-197855.gif" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouhailFl&layout=compact">
     </div>
     <p align="center">📫 How to reach me: <a href="mailto:souhailfellaki@gmail.com">souhailfellaki@gmail.com</a></p>
     <hr>

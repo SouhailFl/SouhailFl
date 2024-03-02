@@ -1,16 +1,15 @@
 <body>
     <h1 align="center"><strong>Hey 👋, I'm Souhail Fellaki</strong></h1>
-    <h2 align="center">A passionate IT lover from Morocco 😍💻.</h2>
-    <div align="center">
-        <a href="https://ibb.co/pf6rnLF">
-            <img src="https://i.ibb.co/5rXx2RH/329566101-727748832355184-5866501581331802860-n.jpg" />
-        </a>
+    <div align="center" >
+        <img src="https://i.ibb.co/5rXx2RH/329566101-727748832355184-5866501581331802860-n.jpg" />
     </div>
-    <h2 align="center">Languages and Tools:</h2>
+    <h2 align="center">A passionate IT lover from Morocco 😍💻.</h2>
+    <div align="center" >
+        <img src="https://i.ibb.co/d2DC1Sn/animesher-com-code-computer-html-197855.gif" alt="animesher-com-code-computer-html-197855" border="0" />
+    </div>  
+    <h2 align="center">Languages and Tools Proficiency:</h2>
     <div align="center">
-        <a href="https://ibb.co/ymzL3jV">
-            <img src="https://i.ibb.co/TDQzC3r/Minimalist-Black-and-White-Blank-Paper-Document-3.png" alt="Minimalist Black and White Blank Paper Document">
-        </a>
+        <img src="https://i.ibb.co/TDQzC3r/Minimalist-Black-and-White-Blank-Paper-Document-3.png" alt="Minimalist Black and White Blank Paper Document">
     </div>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=SouhailFl&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly" />

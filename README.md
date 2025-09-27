@@ -8,10 +8,6 @@
     <div align="center" >
         <img src="https://i.ibb.co/d2DC1Sn/animesher-com-code-computer-html-197855.gif" alt="animesher-com-code-computer-html-197855" border="0" />
     </div>  
-    <h2 align="center">Languages and Tools Proficiency:</h2>
-    <div align="center">
-        <img src="https://i.ibb.co/0fHkfzZ/Minimalist-Black-and-White-Blank-Paper-Document-4.png" width="700px" />
-    </div>
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=SouhailFl&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=jolly" />
     </div>

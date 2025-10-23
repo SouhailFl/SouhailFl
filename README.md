@@ -9,6 +9,9 @@
         <img src="https://i.ibb.co/d2DC1Sn/animesher-com-code-computer-html-197855.gif" alt="animesher-com-code-computer-html-197855" border="0" />
     </div>  
     <div align="center">
+        <a href="https://git.io/streak-stats">
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=SouhailFl&theme=shadow-purple&border_radius=30"/>
+        </a>
     </div>
     <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SouhailFl&layout=compact">

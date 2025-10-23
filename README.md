@@ -4,7 +4,7 @@
     <div align="center" >
         <img src="https://i.ibb.co/5rXx2RH/329566101-727748832355184-5866501581331802860-n.jpg" />
     </div>
-    <h2 align="center">A passionate IT lover from Morocco 😍💻.</h2>
+    <h2 align="center">A passionate tech enthusiast from Morocco who loves coding, cloud computing, and networking 💻✨</h2>
     <div align="center" >
         <img src="https://i.ibb.co/d2DC1Sn/animesher-com-code-computer-html-197855.gif" alt="animesher-com-code-computer-html-197855" border="0" />
     </div>  
